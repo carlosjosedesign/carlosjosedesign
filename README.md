@@ -27,7 +27,9 @@
 </p>
 
 
-[![Carlosjosedesign's github stats](https://github-readme-stats.vercel.app/api?username=carlosjosedesign)](https://github.com/carlosjosedesign/github-readme-stats)
+[![Carlosjosedesign's github stats](https://github-readme-stats.vercel.app/api?username=carlosjosedesign&theme=dark)](https://github.com/carlosjosedesign/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosjosedesign&theme=dark)](https://github.com/carlosjosedesign/github-readme-stats)
+
 
 
 
