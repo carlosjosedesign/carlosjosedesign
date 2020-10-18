@@ -1,3 +1,5 @@
+<img src="https://github.com/carlosjosedesign/carlosjosedesign/blob/main/0.jpg" alt="banner" width="100%">
+
 <div align="center">
 
 ### Sou Carlos José 👋
